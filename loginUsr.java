@@ -1,13 +1,11 @@
-class Main {
-  public static void main(String[] args) {
-
-    // create a string
-    String greet = "Helo! World";
-    System.out.println("String: " + greet);
-
-    // get the length of greet
-    int length = greet.length();
-
-    System.out.println("Length: " + length);
-  }
+public class loginUsr
+{
+        public static void main(string args[])
+        {
+                int i;
+                for (i=0;i<=10;i++){
+                        sytem.out.println("Number: "+i);
+                }
+        }
 }
+
